@@ -1,15 +1,15 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "所思所想" # the bigger text
+title_secondary: "Thoughts" # the smaller text
 keywords:
 
-email: #E-mail address
+email: yookingwong@outlook.com
 bilibili: #bilibili UID
 steam: #user name
 twitter: #username
 rss: atom.xml
 weibo: #username/id
 instagram: #username
-github: #username
+github: YooKing
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
@@ -25,4 +25,4 @@ showCategories: true
 showTags: true
 
 # Color scheme
-themeStyle: light # light/dark
+themeStyle: dark # light/dark

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yooking&#39;s Blog</title>
+  
+  
+  <link href="http://yooking.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="http://yooking.github.io/blog/"/>
+  <updated>2020-11-09T15:21:04.094Z</updated>
+  <id>http://yooking.github.io/blog/</id>
+  
+  <author>
+    <name>Yooking</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新开始</title>
+    <link href="http://yooking.github.io/blog/2020/11/09/%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yooking.github.io/blog/2020/11/09/%E6%96%B0%E5%BC%80%E5%A7%8B/</id>
+    <published>2020-11-09T14:01:47.000Z</published>
+    <updated>2020-11-09T15:21:04.094Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
